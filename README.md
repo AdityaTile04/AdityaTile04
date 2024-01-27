@@ -22,7 +22,7 @@
 <a href="https://fb.com/https://www.facebook.com/aditya.tile.507?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aditya.tile.507?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_adityatile_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_adityatile_/" height="30" width="40" /></a>
 <a href="https://medium.com/@adityatile45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@adityatile45" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/adityatile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/adityatile/" height="30" width="40" /></a>
+<a href="https://leetcode.com/adityatile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/adityatile/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
