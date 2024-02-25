@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Blog website**
 
-- 🌱 I’m currently learning **Express**
+- 🌱 I’m currently learning **Backend Devlopment**
 
 - 💬 Ask me about **Frontend**
 
