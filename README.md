@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Blog website**
 
-- 🌱 I’m currently learning **Fullstack Devlopment**
+- 🌱 I’m currently learning **Fullstack Devlopment and DSA**
 
 - 💬 Ask me about **Frontend**
 
