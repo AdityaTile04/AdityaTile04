@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Fullstack Development and DSA with Java**
 
-- 💬 Ask me about **FullStack Development**
+- 💬 Ask me about **Fullstack Development**
 
 - 📫 How to reach me **adityatile45@gmail.com**
 
