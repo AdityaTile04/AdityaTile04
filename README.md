@@ -35,6 +35,9 @@
 </p>
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaTile04&theme=github_dark)
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityatile04&show_icons=true&locale=en&layout=compact" alt="adityatile04" /></p>
 
