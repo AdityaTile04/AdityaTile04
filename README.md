@@ -4,7 +4,7 @@
 </p> -->
 
 <!-- Greeting and Bio -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/AdityaTile04/AdityaTile04/main/wave.gif" width="30px">, I'm Aditya Tile</h1>
+<h1 align="center">Hi, I'm Aditya Tile</h1>
 <h3 align="center">A passionate Backend focused Fullstack Developer</h3>
 
 <!-- Typing animation (dynamic bio) -->
