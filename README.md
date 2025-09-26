@@ -1,45 +1,100 @@
-<h1 align="center">Hi 👋, I'm Aditya Tile</h1>
-<h3 align="center">A passionate fullstack web developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityatile04&label=Profile%20views&color=0e75b6&style=flat" alt="adityatile04" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityatile04" alt="adityatile04" /></a> </p>
-
-
-
-
-
-- 🌱 I’m currently learning **Fullstack Development and DSA with Java**
-
-- 💬 Ask me about **Fullstack Development**
-
-- 📫 How to reach me **adityatile45@gmail.com**
-
-
-
-
-# 💻 Tech Stack:
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/_adityatile_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/_adityatile_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-t-982a7822b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-t-982a7822b/" height="30" width="40" /></a>
-<!-- <a href="https://fb.com/https://www.facebook.com/aditya.tile.507?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/aditya.tile.507?mibextid=zbwkwl" height="30" width="40" /></a> -->
-<!-- <a href="https://instagram.com/https://www.instagram.com/_adityatile_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_adityatile_/" height="30" width="40" /></a> -->
-<a href="https://medium.com/@adityatile45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@adityatile45" height="30" width="40" /></a>
-<a href="https://leetcode.com/aditya-tile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/adityatile/" height="30" width="40" /></a>
+<!-- Banner GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350" alt="Welcome!"/>
 </p>
 
+<!-- Greeting and Bio -->
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/AdityaTile04/AdityaTile04/main/wave.gif" width="30px">, I'm Aditya Tile</h1>
+<h3 align="center">A passionate Java Backend Developer & Problem Solver</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityatile04&show_icons=true&locale=en&layout=compact" alt="adityatile04" /></p>
+<!-- Typing animation (dynamic bio) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=2685FF&center=true&width=435&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+Microservices;Problem+Solver+%7C+Open+Source+Contributor;Lifelong+Learner+%7C+Tech+Enthusiast" alt="Typing SVG" />
+</p>
 
+<!-- Social Badges and Visitor Counter -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/adityatile04/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:adityatile04@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/AdityaTile04"><img src="https://img.shields.io/github/followers/AdityaTile04?label=Follow&style=for-the-badge" /></a>
+  <img src="https://komarev.com/ghpvc/?username=AdityaTile04&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaTile04&theme=github_dark)
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityatile04&show_icons=true&locale=en" alt="adityatile04" /></p>
+### 🚀 My Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityatile04&" alt="adityatile04" /></p>
+<!-- Backend & DevOps -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,java,nodejs,express,aws,docker,dockercompose,mongodb,mysql,postgres,git,github,postman,ts,js" alt="Backend & DevOps"/>
+</p>
+<!-- Frontend -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="Frontend"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+</p>
+
+---
+
+<!-- About Me Section with Emojis -->
+### 🧑‍💻 About Me
+- 🔭 Currently building **Spring Boot Projects & DSA**
+- 🌱 Learning **Cloud Technologies & Microservices**
+- 🤝 Open to collaborate on **Open Source Java Projects**
+- 💬 Ask me about **Java, Spring, REST APIs, DSA**
+- 📫 Reach me at **adityatile04@gmail.com**
+- ⚡ Fun fact: *I love building things that make life easier!*
+
+---
+
+<!-- GitHub Stats Cards -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaTile04&show_icons=true&theme=tokyonight" alt="Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AdityaTile04&theme=tokyonight&hide_border=true" alt="Streak" height="170"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaTile04&layout=compact&theme=tokyonight" alt="Top Languages" height="130"/>
+</p>
+
+---
+
+<!-- Commit Graph -->
+<h3 align="center">🗂️ My GitHub Activity Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaTile04&theme=tokyo-night&area=true" alt="Activity Graph"/>
+</p>
+
+---
+
+<!-- Trophies (gamification) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdityaTile04&theme=tokyonight&no-frame=true&margin-w=8" alt="Trophies"/>
+</p>
+
+---
+
+<!-- Featured Projects with Emojis -->
+### 🚩 Featured Projects
+- 📝 [Leetcode_Questions](https://github.com/AdityaTile04/Leetcode_Questions): My solutions and approaches for Leetcode problems
+- 🏗️ [Java-Backend](https://github.com/AdityaTile04/Java-Backend): Java backend mini-projects and demos
+- 🔐 [Spring_Authentication](https://github.com/AdityaTile04/Spring_Authentication): Secure authentication using Spring Boot
+- ✉️ [MailPilot](https://github.com/AdityaTile04/MailPilot): Email automation and management tool
+- 🎓 [student-portal](https://github.com/AdityaTile04/student-portal): A full-stack portal for students
+
+---
+
+<!-- Fun GIF or Meme -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding"/>
+</p>
+
+---
+
+<!-- Let's Connect with Animated Icon -->
+<h3 align="center">Let's Connect! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/adityatile04/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:adityatile04@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
