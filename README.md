@@ -16,7 +16,7 @@
 <p align="center">
   <a href="[https://www.linkedin.com/in/adityatile04/](http://linkedin.com/in/connectwithadityatile)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:adityatile45@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/AdityaTile04"><img src="https://img.shields.io/github/followers/AdityaTile04?label=Follow&style=for-the-badge" /></a>
+  <!-- <a href="https://github.com/AdityaTile04"><img src="https://img.shields.io/github/followers/AdityaTile04?label=Follow&style=for-the-badge" /></a> -->
   <img src="https://komarev.com/ghpvc/?username=AdityaTile04&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
