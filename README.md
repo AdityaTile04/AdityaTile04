@@ -64,26 +64,21 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaTile04&theme=tokyo-night&area=true" alt="Activity Graph"/>
 </p>
 
----
+
 
 <!-- Trophies (gamification) -->
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AdityaTile04&theme=tokyonight&no-frame=true&margin-w=8" alt="Trophies"/>
 </p> -->
 
----
 
 <!-- Featured Projects with Emojis -->
 
-
----
 
 <!-- Fun GIF or Meme -->
 <!-- <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding"/>
 </p> -->
-
----
 
 <!-- Let's Connect with Animated Icon -->
 <!-- <h3 align="center">Let's Connect! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
